@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccrispisallusti00unkngoog_0010.png"; bbox 0 0 729 1173; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 14 501 633 539">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 14 501 633 539">
+     <span class='ocr_line' id='line_1_1' title="bbox 14 501 633 539; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 14 508 17 510; x_wconf 65' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 49 529 51 531; x_wconf 36' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_3' title='bbox 96 509 146 539; x_wconf 87' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_4' title='bbox 168 501 362 536; x_wconf 85' lang='lat' dir='ltr'>CRISPI</span> <span class='ocrx_word' id='word_1_5' title='bbox 381 502 633 532; x_wconf 88' lang='lat' dir='ltr'><strong>SALLUSTII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 615 520 640">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 615 520 640">
+     <span class='ocr_line' id='line_1_2' title="bbox 258 615 520 640; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 258 615 378 640; x_wconf 87' lang='lat' dir='ltr'><strong>OPERA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 394 615 520 640; x_wconf 85' lang='lat' dir='ltr'><strong>OMNIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 115 1059 434 1084">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 115 1059 434 1084">
+     <span class='ocr_line' id='line_1_3' title="bbox 115 1059 434 1084; baseline -0.006 -10"><span class='ocrx_word' id='word_1_8' title='bbox 115 1067 172 1084; x_wconf 60' lang='lat' dir='ltr'><em>W</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 179 1066 197 1078; x_wconf 57' lang='grc' dir='ltr'>,ς</span> <span class='ocrx_word' id='word_1_10' title='bbox 207 1063 246 1077; x_wconf 71' lang='lat' dir='ltr'>var-</span> <span class='ocrx_word' id='word_1_11' title='bbox 253 1060 287 1073; x_wconf 62' lang='grc' dir='ltr'>σιω.</span> <span class='ocrx_word' id='word_1_12' title='bbox 386 1059 434 1072; x_wconf 68' lang='lat' dir='ltr'>unu.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
